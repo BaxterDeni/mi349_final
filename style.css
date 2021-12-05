@@ -16,6 +16,14 @@ height:209px;
 margin-top:-8px;
 }
 
+header{
+    background-color: darkcyan;
+}
+
+body {
+    background-color: lightcyan;
+}
+
 section {
     display: flex;
 }
