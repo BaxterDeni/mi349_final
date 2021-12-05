@@ -31,3 +31,11 @@ img {
     height: 100%;
     object-fit: contain;
 }
+
+#pageTitle {
+    text-align: center;
+}
+
+.gameTitle {
+    text-align: center;
+}
