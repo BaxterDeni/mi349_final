@@ -20,7 +20,7 @@ section {
     display: flex;
 }
 
-image{
+.image{
     width: 50px;
     height: auto;
 }
