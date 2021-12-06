@@ -47,7 +47,7 @@ img {
     object-fit: contain;
 }
 
-#pageTitle {
+.pageTitle {
     text-align: center;
 }
 
