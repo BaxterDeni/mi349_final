@@ -25,7 +25,10 @@ header{
     background-color: darkcyan;
 }
 
-
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+}
 
 section {
     display: flex;
