@@ -72,7 +72,9 @@ img {
 }
 
 .selfie {
-    
+    width: 10%;
+    height: 10%;
+    object-fit:
 }
 
 .menu {
