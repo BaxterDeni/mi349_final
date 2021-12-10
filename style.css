@@ -72,14 +72,15 @@ img {
 }
 
 .selfie {
-    width: 10%;
-    height: 10%;
-    object-fit: contain;
-    margin-left: 685px;
+    
 }
 
 .menu {
     font-size: 18;
+}
+
+#self {
+    text-align: center;
 }
 
 @media (min-width: 600px) {
