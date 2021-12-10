@@ -34,9 +34,7 @@ header{
     border-bottom: 5px solid black;
 }
 
-#portfolio {
-    display: flex;
-}
+
 
 .image{
     width:auto;
@@ -81,4 +79,10 @@ img {
 
 .menu {
     font-size: 18;
+}
+
+@media (min-width: 500px) {
+    #portfolio {
+        display: flex;
+    }
 }
