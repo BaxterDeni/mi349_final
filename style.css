@@ -81,7 +81,7 @@ img {
     font-size: 18;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 600px) {
     #portfolio {
         display: flex;
     }
