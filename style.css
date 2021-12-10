@@ -2,6 +2,10 @@ html {
     background-color: lightcyan;
 }
 
+body {
+    border-top: 5px solid black;
+}
+
 nav {
 position:relative;
 text-align:center;
